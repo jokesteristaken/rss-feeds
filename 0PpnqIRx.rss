@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title></title>
+    <description></description>
+    <link></link>
+    <atom:link rel="alternate" type="text/html" href=""/>
+    <atom:link rel="self" type="application/atom+xml" href="https://rssbridge.flossboxin.org.in/?action=display&amp;bridge=YoutubeBridge&amp;context=By+playlist+Id&amp;p=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL4t_secZTPn4tDpCAKWyCUSO2P6kT9PkF&amp;duration_min=&amp;duration_max=&amp;format=Mrss"/>
+  </channel>
+</rss>
